@@ -29,7 +29,7 @@ jobs:
           git config --local user.name "fr00t16"
           git add -A
           
-          arr[0]="chore(bot): 😂 love you lala"
+          arr[0]="chore(bot): 😂 auto commit test 1"
           arr[1]="chore(bot): 😱 kamu gak cringe kan?"
           arr[2]="chore(bot): 👿 kamu gak cringe kan?"
           arr[3]="chore(bot): 💩 kamu gak cringe kan?"
